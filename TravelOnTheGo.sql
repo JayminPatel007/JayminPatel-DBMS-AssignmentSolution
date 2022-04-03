@@ -21,6 +21,7 @@ CREATE TABLE PRICE(
     Price decimal
 );
 
+# 2
 INSERT INTO PASSENGER(Passenger_name, Category, Gender, Boarding_City, Destination_City, Distance, Bus_Type)
 	VALUES ("Sejal", "AC", "F", "Bengaluru", "Chennai", 350, "Sleeper"),
 		   ("Anmol", "Non-AC", "M", "Mumbai", "Hyderabad", 700, "Sitting"),
